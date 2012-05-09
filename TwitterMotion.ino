@@ -1,4 +1,3 @@
-
 /* -*- c++ -*-
  *
  * Twitter.pde
@@ -187,5 +186,5 @@ void loop()
   delay(200);
 }
 
-# Hey my first commit!
+// I'm removing your commit!
 
