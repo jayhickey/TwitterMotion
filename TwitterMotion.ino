@@ -186,5 +186,8 @@ void loop()
   delay(200);
 }
 
+<<<<<<< HEAD
 // I'm removing your commit!
 
+=======
+>>>>>>> Revert "Tim's First Commit!"
