@@ -1,0 +1,10 @@
+Libraries to include:
+
+#include <SPI.h>
+#include <Ethernet.h>
+#include <OneWire.h>
+#include <sha1.h>
+#include <Time.h>
+#include <EEPROM.h>
+#include <Twitter.h>
+#include <pitches.h>
